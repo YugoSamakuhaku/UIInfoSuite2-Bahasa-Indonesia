@@ -1,0 +1,65 @@
+{
+  //GUI - Billboard
+  "Billboard": "Billboard",
+  "Calendar": "Kalender",
+  //GUI - Seed shop
+  "HarvestPrice": "Harga Panen",
+  //Production
+  "Days": "Hari",
+  "Hours": "Jam",
+  "Minutes": "Menit",
+  //Harvest
+  "DaysToMature": "Hari untuk siap panen",
+  "ReadyToHarvest": "Siap panen!",
+  //Display icons - General
+  "TodaysRecipe": "Resep hari ini: ",
+  "TravelingMerchantIsInTown": "Traveling merchant ada di kota!",
+  "RainNextDay": "Besok akan Hujan",
+  "ThunderstormNextDay": "Besok akan ada Badai Petir",
+  "SnowNextDay": "Besok akan Turun Salju",
+  "DaysUntilToolIsUpgraded": "{0} hari hingga {1} selesai ditingkatkan",
+  "ToolIsFinishedBeingUpgraded": "{0} Telah Selesai!",
+  "NpcBirthday": "{0} Berulang Tahun",
+  "RobinBuildingStatus": "Robin akan menyelesaikan pembangunan dalam {0} hari",
+  //Display icons - Luck
+  "DailyLuckValue": "Keberuntungan Harian Kamu Adalah {0}",
+  "FeelingLucky": "kamu Merasa Sangat Beruntung!!",
+  "LuckyButNotTooLucky": "Merasa Beruntung... tetapi Tidak Terlalu Beruntung",
+  "NotFeelingLuckyAtAll": "Kamu sama sekali Tidak Beruntung Hari ini...",
+  "MaybeStayHome": "Mungkin Kamu harus Tinggal di Rumah Hari ini...",
+  "LuckStatus1": "Merasa Beruntung!",
+  "LuckStatus2": "Merasa Sedikit Beruntung Hari ini!",
+  "LuckStatus3": "Hari ada di Tangan Kamu",
+  "LuckStatus4": "Roh Merasa Benar-Benar Netral Hari ini",
+  "LuckStatus5": "Keberuntungan Tidak akan Berpihak pada Kamu Hari ini",
+  "LuckStatus6": "Mungkin Sebaiknya Kamu Tinggal di Rumah Hari ini ...",
+  //Settings - General
+  "ShowLevelUpAnimation": "Tampilkan Animasi Naik Level",
+  "ShowExperienceBar": "Tampilkan EXP Bar",
+  "AllowExperienceBarToFadeOut": "Perbolehkan EXP Bar Meredup",
+  "ShowExperienceGain": "Tampilan EXP yang Didapatkan",
+  "ShowLocationOfTownsPeople": "Tampilkan Penduduk Desa di Peta",
+  "ShowAnimalsNeedPets": "Tampilkan Hewan yang Butuh Interaksi",
+  "HideAnimalPetOnMaxFriendship": "Sembunyikan Hewan Hati MAX",
+  "ShowCropAndBarrelTooltip": "Tampilkan Waktu Panen dan barel",
+  "ShowItemEffectRanges": "Radius Orang Sawah, Alat Penyiram",
+  "ShowExtraItemInformation": "Tampilkan Informasi Barang DiHover",
+  "ShowHarvestPricesInShop": "Tampilkan Harga Panen di Toko",
+  //Settings - Tabs info
+  "DisplayCalendarAndBillboard": "Tampilan Tombol Kalender/Billboard",
+  "ShowHeartFills": "Tampilkan Jumlah Hati",
+  "ShowTodaysGifts": "Tunjukan Hadiah Hari ini",
+  //Settings - Show icons
+  "ShowBirthdayIcon": "Tampilkan Ikon Ulang Tahun",
+  "HideBirthdayIfFullFriendShip": "Sembunyikan Hati MAX",
+  "ShowTravelingMerchant": "Tampilkan Traveling Merchant",
+  "HideMerchantWhenVisited": "Sembunyikan Saat Berkunjung",
+  "ShowRainyDay": "Tampilkan Hari saat Hujan",
+  "ShowWhenNewRecipesAreAvailable": "Tampilkan Resep Baru saat Tersedia",
+  "ShowToolUpgradeStatus": "Tampilkan Status Peningkatan Alat",
+  "ShowRobinBuildingStatusIcon": "Tampilkan Status Konstruksi Robin",
+  "ShowLuckIcon": "Tampilkan Ikon Keberuntungan",
+  "ShowExactValue": "Tampilkan Nilai yang Sesuai",
+  //Others
+  "LevelUp": "Naik Level"
+}
